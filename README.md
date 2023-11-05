@@ -15,10 +15,3 @@ Stay connected with the world even when you're on the move. Voyager fetches the 
 
 ### Weather Alerts
 Safety is a top priority. Voyager monitors various weather conditions, such as rain, snow, fog, and high winds, and provides guidance to help you prepare for your journey. Be weather-ready with Voyager.
-
-## Getting Started
-
-1. Clone this repository to your local machine.
-
-```bash
-git clone https://github.com/your-username/voyager.git
